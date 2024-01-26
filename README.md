@@ -3,3 +3,6 @@ This shader code was created in Unity version 2019.4.31f1. Compatibility with ve
 
 # Included Files
 Tripanar Shader
+
+# Release
+https://github.com/MissingE/Unity-Triplanar-Shader/releases/tag/v1.0.0
